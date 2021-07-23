@@ -824,6 +824,12 @@
                                 <rect key="frame" x="-29" y="-25" width="472" height="893"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LC1-1c-4T2">
+                                <rect key="frame" x="84" y="769" width="247" height="39"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="Link to Full Recipe"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="mN8-dn-qXj"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
